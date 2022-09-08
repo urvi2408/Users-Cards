@@ -1,0 +1,18 @@
+.cards{
+    text-align: center;
+}
+.img{
+    border-radius: 50%;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 300px;
+    width: 300px;
+    margin: 25px;
+    background-color: lightgray;
+}
+.info{
+    position: relative;
+    padding-top: 37PX;
+}
